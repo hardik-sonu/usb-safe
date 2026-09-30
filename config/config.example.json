@@ -1,0 +1,12 @@
+{
+    "archive_root": "D:\\USB-Safe-Archive",
+    "authorized_devices": [
+        {
+            "name": "LAB-USB-01",
+            "volume_serial": "1234-ABCD"
+        }
+    ],
+    "verify_sha256": true,
+    "copy_buffer_mb": 4,
+    "log_directory": "logs"
+}
